@@ -1,0 +1,64 @@
+.page_top_bar {
+}
+.navbar {
+    position:relative;
+    height:inherit;
+    z-index:998;
+}
+.white_topbar {
+    background-color:#f7f7f7 !important;
+    height:55px;
+
+}
+.white_wrapper {
+    position: relative;
+    height: 55px;
+}
+.left_side {
+    float:left !important;
+    margin:0;
+    padding:0;
+}
+.search_wrapper {
+    max-width: 824px;
+    width: 100%;
+    margin: 0;
+    width: calc(100% - 45%);
+    height: 40px;
+    display: inline-block;
+    position: relative;
+}
+.input_searchbox {
+    display: block;
+    padding-left: 72px;
+    width: 100%;
+    background: rgb(255, 0, 0);
+    height: 35px;
+    -webkit-transition: all 200ms ease;
+    transition: all 200ms ease;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    outline: none;
+    border-radius: 500px;
+}
+body {
+    background-color:black;
+}
+.right_side {
+    float:right;
+    overflow:hidden;
+}
+ul {
+    list-style-type: none; 
+}
+.whats_krank {
+}
+.about_page {
+    margin-right:100px;
+}
+.logo {
+    margin-top:0;
+    vertical-align:top;
+    position:inherit;    
+}
